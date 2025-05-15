@@ -1,0 +1,12 @@
+name: successpred
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.12
+  - jupyter
+  - pip
+  - pip:
+    - numpy
+    - pandas
+    - scikit-learn
