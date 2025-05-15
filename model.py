@@ -1,3 +1,5 @@
+# Author Yann Monneyron
+
 import numpy as np
 
 
